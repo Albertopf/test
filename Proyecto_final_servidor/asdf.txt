@@ -1,0 +1,11 @@
+http://stackoverflow.com/questions/14119133/conversion-failed-when-converting-date-and-or-time-from-character-string-while-i
+
+http://stackoverflow.com/questions/161486/change-language-of-error-messages-in-asp-net
+
+https://msdn.microsoft.com/es-es/library/bz9tc508(v=vs.100).aspx
+
+http://stackoverflow.com/questions/16646330/out-of-range-value-error-when-converting-a-varchar-to-datetime
+
+http://stackoverflow.com/questions/4655461/dropdownlist-shows-duplicate-values-while-editing-a-row-in-the-gridview
+
+http://www.sqlusa.com/bestpractices/datetimeconversion/

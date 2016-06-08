@@ -1,0 +1,27 @@
+http://startbootstrap.com/template-overviews/shop-item/
+http://startbootstrap.com/template-overviews/shop-homepage/
+http://startbootstrap.com/template-overviews/thumbnail-gallery/
+http://startbootstrap.com/template-overviews/simple-sidebar/
+http://startbootstrap.com/template-overviews/logo-nav/
+
+http://designscrazed.org/best-html-ecommerce-website-templates/
+
+No poner validations
+
+albaran no puede ser autonumerico
+
+para pag de item o carrito de compra hace falta alguna tabla especial
+
+hay q cumplir al detalle la hoja de specs?¿
+
+Nueva tabla para estados: en curso, entregado etc
+Quitar la propiedad de relacion de autor.
+Se puede poner el rol en otra tabla
+Copiar base de datos del ejercicio 6 y ponerla en
+mi proyecto final, (modificándola).
+
+http://www.c-sharpcorner.com/UploadFile/47548d/responsive-grid-view-in-Asp-Net/
+
+http://stackoverflow.com/questions/18888973/changing-primary-key-value-for-a-database-row
+
+http://vitalets.github.io/bootstrap-datepicker/
